@@ -95,7 +95,7 @@ python pcapgui.py
 - [Zach Boston](https://www.linkedin.com/in/zach-b-6a0839236/) - wyb5@txstate.edu
 - [Mateo Paul Cordeiro]() - mpc89@txstate.edu
 - [Cody Nguyen Hoang](https://www.linkedin.com/in/cody-hoang-b9a741256/) - cnh71@txstate.edu
-- [David Mocjica](https://www.linkedin.com/in/david-mojica-9b6090188/) - fdf16@txstate.edu
+- [David Mojica](https://www.linkedin.com/in/david-mojica-9b6090188/) - fdf16@txstate.edu
 - [Tomoray Scott](https://www.linkedin.com/in/tomoray-scott-560227121/) - tms@txsate.edu
 
 * Project Link: https://github.com/Cutupnottoasted/ComputerSecurityMC-MitM/tree/main
